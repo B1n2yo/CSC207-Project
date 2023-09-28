@@ -10,3 +10,5 @@ count, protein/carb/fat intake, and other nutritional goals will be taken into
 account when choosing the recipes. Some potential features includes a way to
 save recipes and viewing both each meal's nutritional information and the day's
 total info.
+
+An example call using hopscotch with the API is in the file adwadawd.png.
