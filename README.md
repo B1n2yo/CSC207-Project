@@ -11,4 +11,4 @@ account when choosing the recipes. Some potential features includes a way to
 save recipes and viewing both each meal's nutritional information and the day's
 total info.
 
-<img src="file:///C:/Users/benzh/OneDrive/Desktop/adwadawd.png" style=" width:60px ; height:60px "  >
+<img src="file:///C:/Users/benzh/OneDrive/Desktop/adwadawd.png" style=" width:1920px ; height:1080px "  >
