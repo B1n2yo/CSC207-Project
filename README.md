@@ -10,5 +10,5 @@ count, protein/carb/fat intake, and other nutritional goals will be taken into
 account when choosing the recipes. Some potential features includes a way to
 save recipes and viewing both each meal's nutritional information and the day's
 total info.
-<img src="![image](https://github.com/B1n2yo/CSC207-Project/assets/78487404/f3e3d119-d64d-498f-8bc9-1fac27de7c96)
-" style=" width:60px ; height:60px "  >
+
+<img src="file:///C:/Users/benzh/OneDrive/Desktop/adwadawd.png" style=" width:60px ; height:60px "  >
